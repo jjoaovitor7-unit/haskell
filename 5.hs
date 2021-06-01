@@ -1,5 +1,5 @@
 -- potenciação
-potencia:: Int->Int->Int
+potencia:: Int -> Int -> Int
 potencia x y
   | y==0 = 1
   | y==1 = x
